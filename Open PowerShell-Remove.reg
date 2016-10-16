@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenPowerShell]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenPowerShell]
+
+[-HKEY_CLASSES_ROOT\Drive\shell\OpenPowerShell]
+
+[-HKEY_CLASSES_ROOT\LibraryFolder\Background\shell\OpenPowerShell]
